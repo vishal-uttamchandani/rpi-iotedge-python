@@ -1,0 +1,3 @@
+wheel
+bluepy
+azure-iothub-device-client
